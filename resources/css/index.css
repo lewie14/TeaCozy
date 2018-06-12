@@ -155,7 +155,7 @@ header nav {
 
 .column.tea{
   width: 100% ;
-  border: 3px solid blue;
+  /* border: 3px solid blue; */
 }
 
 .cards {
